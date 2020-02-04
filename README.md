@@ -10,7 +10,7 @@
 #### Othe related repositories include:
   * [Console API Documentation](https://github.com/MicrosoftDocs/Console-Docs)
 
-### Build Status
+### Build Statu
 
 Project|Build Status
 ---|---
