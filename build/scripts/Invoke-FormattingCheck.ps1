@@ -1,5 +1,5 @@
 
-#.SYNOPSIS
+#.SYNOPSIS Test
 # Checks for code formatting errors. Will throw exception if any are found.
 function Invoke-CheckBadCodeFormatting() {
     Import-Module ./tools/OpenConsole.psm1
